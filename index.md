@@ -4,4 +4,7 @@
     <title>WPOIsites</title>
     <link rel="shortcut icon" href="logo.ico">
   </head>
+  <body>
+    
+  <body>
 </html>
