@@ -29,10 +29,6 @@ li a:hover:not(.active) {
 	color: white;
 }
 
-* {
-	box-sizing: border-box;
-}
-
 body {
 	font-family: Arial;
 	padding: 10px;
