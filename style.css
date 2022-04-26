@@ -29,6 +29,10 @@ li a:hover:not(.active) {
 	color: white;
 }
 
+* {
+	box-sizing: border-box;
+}
+
 body {
 	font-family: Arial;
 	padding: 10px;
@@ -42,10 +46,6 @@ body {
 	text-align: center;
 	background: white;
 	margin: 10px;
-}
-
-* {
-	box-sizing: border-box;
 }
 
 .footer {
